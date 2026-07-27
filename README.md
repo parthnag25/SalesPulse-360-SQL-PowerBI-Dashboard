@@ -118,6 +118,32 @@ Power BI’s Key Influencers analysis identified Electronics as the strongest dr
 
 ---
 
+## Dashboard Screenshots
+
+### Data Model
+
+![Data Model](Images/Model%20View.png)
+
+### Page 1: Executive Overview
+
+![Executive Overview](Images/Page%201%20Executive%20Overview.png)
+
+### Page 2: Profitability Drivers
+
+![Profitability Drivers](Images/Page%202%20Profitability%20Drivers.png)
+
+### Page 3: Customer and Sales Performance
+
+![Customer and Sales Performance](Images/Page%203%20Customer%20and%20Sales%20Performance.png)
+
+### Page 4: AI-Assisted Insights
+
+![AI-Assisted Insights](Images/Page%204%20AI-Assisted%20Insights.png)
+
+
+
+
+
 ## Key Business Findings
 
 - Total revenue was approximately $92.5M.
